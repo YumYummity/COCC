@@ -8,4 +8,6 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-asd
+var script = document.createElement('script');
+script.src = 'https://raw.githubusercontent.com/YumYummity/COCC/main/code/code.js';
+document.head.appendChild(script);
