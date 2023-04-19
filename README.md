@@ -1,1 +1,2 @@
-# COCC---Chrome-On-Crack-Client
+# COCC
+Chrome On Crack Client.
